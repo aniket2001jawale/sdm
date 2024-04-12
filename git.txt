@@ -1,0 +1,11 @@
+the new file is created and it is pushed using command line 
+step 1:
+git status
+step 2:
+git add .
+step 3:
+git status
+step 4:
+git commit -m "this is new text file"
+step 5:
+git push
